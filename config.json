@@ -1,10 +1,5 @@
 [
   {
-    "name": "Ocean FM",
-    "stream": "https://edge4.audioxi.com/OCEANDAAC",
-    "icon": "https://static2.mytuner.mobi/media/tvos_radios/4BSy2wfZwh.png"
-  },
-  {
     "name": "Highland Radio",
     "stream": "https://pri.gocaster.net/highlandradio",
     "icon": "https://ie.radioonline.fm/images/highland-radio_2.png"
