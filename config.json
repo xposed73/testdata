@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Ocean FM",
+    "stream": "https://edge4.audioxi.com/OCEANDAAC",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/4BSy2wfZwh.png"
+  },
+  {
+    "name": "Highland Radio",
+    "stream": "https://pri.gocaster.net/highlandradio",
+    "icon": "https://ie.radioonline.fm/listen/Highland-Radio"
+  },
+  {
+    "name": "Midwest Radio",
+    "stream": "https://direct.sharp-stream.com/midwestfmie3.aac",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/pL76eJQtmP.jpeg"
+  },
+  {
+    "name": "Midlands 103",
+    "stream": "https://stream.rcs.revma.com/tq45ca1vftzuv",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/PtTWUWECzq.png"
+  },
+  {
+    "name": "Galway Bay FM",
+    "stream": "https://wg.cdn.tibus.net/galwaybay.mp3",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/yW6USgSryf.png"
+  },
+  {
+    "name": "Newstalk FM",
+    "stream": "https://edge2.audioxi.com/NT",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/619/newstalk-106-108.dd97ce67.png"
+  },
+  {
+    "name": "Today FM",
+    "stream": "https://pri.gocaster.net/td",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/837/today-fm.1e65ca99.jpg"
+  },
+  {
+    "name": "RtÉ Radio 1",
+    "stream": "https://icecast.rte.ie/radio1",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/180/rte-radio-1.a23fe8eb.jpg"
+  },
+  {
+    "name": "RtÉ 2 FM",
+    "stream": "https://icecast.rte.ie/2fm",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/177/rte-2fm.9a2cbe96.jpg"
+  },
+  {
+    "name": "RtÉ Raidió na Gaeltachta",
+    "stream": "https://icecast2.rte.ie/rnag",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/4aPYAn5vKq.png"
+  },
+  {
+    "name": "RtÉ Lyric FM",
+    "stream": "https://icecast2.rte.ie/lyric",
+    "icon": "https://static2.mytuner.mobi/media/tvos_radios/ZytX9a9Mcr.jpeg"
+  }
+]
